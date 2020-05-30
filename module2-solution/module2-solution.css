@@ -1,0 +1,28 @@
+h1
+{
+    font-style: italic;
+    text-align: center;
+}
+h2
+{
+    text-align: right;
+    background-color: lawngreen;
+    display: inline-block;
+    border: 1px solid;
+    padding: 2px;
+
+}
+.paneer
+{
+    color:blue;
+    background-color: khaki;
+    text-align: justify;
+    margin: 10px 10px 10px 10px;
+    border: dashed;   
+    display: flex;
+    align-content: flex-start;
+    flex-flow:column wrap-reverse;
+    padding: 2px;   
+    flex: 2 2 ;
+   
+}
